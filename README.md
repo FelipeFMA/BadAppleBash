@@ -1,2 +1,3 @@
 # BadAppleBash
-A simple bash script that runs Bad Apple intro on the terminal (uses mpv for sound)
+
+https://github.com/FelipeFMA/BadAppleBash/blob/main/preview/videopreview.mp4
