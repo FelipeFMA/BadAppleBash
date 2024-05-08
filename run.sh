@@ -19,12 +19,11 @@ fi
 dir="$SCRIPT_DIR/frames-ascii" 
 
 for filename in $(ls -v "$dir"); do
-#    clear
+    tput cup 0 0
     file="$dir/$filename"
     if [ -f "$file" ]; then
         cat "$file"
     fi
 
-#    sleep $((0.02 / $speed))
     sleep 0.024
 done
