@@ -11,7 +11,11 @@ else
   speed=1.0
 fi
 
-mpv --no-video bad_apple.mp4 > /dev/null 2>&1 &
+read -p "Do you want to use mpv to play sound? You need mpv installed to do that. (y/n): " choice
+if [[ $choice =~ ^[Yy]$ ]]; then
+  mpv --no-video bad_apple.mp4 > /dev/null 2>&1 &
+fi
+
 dir="$SCRIPT_DIR/frames-ascii" 
 
 for filename in $(ls -v "$dir"); do
@@ -23,7 +27,4 @@ for filename in $(ls -v "$dir"); do
 
 #    sleep $((0.02 / $speed))
     sleep 0.024
-
-
 done
-
