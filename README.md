@@ -3,6 +3,7 @@
 ![preview](https://github.com/FelipeFMA/BadAppleBash/assets/30672253/f14f3b1a-3da0-44fa-90d0-3b4e0757c04e)
 
 This project reproduces the ["Bad Apple!!"](https://youtu.be/9lNZ_Rnr7Jc?si=ROgXrVvdx13oKPM4) video using Bash scripting, with all graphics rendered in ASCII art. The code has changed since the creation of the GIF, but the core functionality remains intact.
+
 Why? Why not :P
 
 
