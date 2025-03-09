@@ -1,10 +1,11 @@
 # BadAppleBash
 
-![preview](https://github.com/FelipeFMA/BadAppleBash/assets/30672253/f14f3b1a-3da0-44fa-90d0-3b4e0757c04e)
+![Design sem nome](https://github.com/user-attachments/assets/329e599e-2284-4d9d-8936-3c166f85334d)
 
-This project reproduces the ["Bad Apple!!"](https://youtu.be/9lNZ_Rnr7Jc?si=ROgXrVvdx13oKPM4) video using Bash script, with all graphics rendered in ASCII art. The code has changed a lot since the creation of the GIF above, but the core functionality remains intact.
+This project reproduces the ["Bad Apple!!"](https://youtu.be/9lNZ_Rnr7Jc?si=ROgXrVvdx13oKPM4) video using Bash script, with all graphics rendered in ASCII art.
 
-Why? Why not :P
+- Why?
+- Why not :P
 
 
 
